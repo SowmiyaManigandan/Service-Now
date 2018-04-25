@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="serial_number" label="Serial Number" language="en" table="x_180060_amp_company_products">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>serial_number</element>
+            <help/>
+            <hint/>
+            <label>Serial Number</label>
+            <language>en</language>
+            <name>x_180060_amp_company_products</name>
+            <plural>Serial Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:38:53</sys_created_on>
+            <sys_id>02f2ddf7db211300477beb41ca9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Serial Number</sys_name>
+            <sys_package display_value="AMP" source="x_180060_amp">00aa142fdb215300477beb41ca9619e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AMP">00aa142fdb215300477beb41ca9619e1</sys_scope>
+            <sys_update_name>sys_documentation_x_180060_amp_company_products_serial_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:38:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

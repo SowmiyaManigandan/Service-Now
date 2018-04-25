@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="product_subgroup" table="x_180060_amp_company_products" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_subgroup</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Subgroup1</label>
+            <language>en</language>
+            <name>x_180060_amp_company_products</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:48:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbb41d7bdb211300477beb41ca96196d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:48:28</sys_updated_on>
+            <value>Subgroup1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_subgroup</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Subgroup2</label>
+            <language>en</language>
+            <name>x_180060_amp_company_products</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:48:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c251d7bdb211300477beb41ca96193c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:48:39</sys_updated_on>
+            <value>Subgroup2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_subgroup</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Subgroup3</label>
+            <language>en</language>
+            <name>x_180060_amp_company_products</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:48:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1725597bdb211300477beb41ca96191c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:48:51</sys_updated_on>
+            <value>Subgroup3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_subgroup</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Subgroup4</label>
+            <language>en</language>
+            <name>x_180060_amp_company_products</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:48:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e35d1bbdb211300477beb41ca9619cd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:49:04</sys_updated_on>
+            <value>Subgroup4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>product_subgroup</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Subgroup5</label>
+            <language>en</language>
+            <name>x_180060_amp_company_products</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:49:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c545597bdb211300477beb41ca96198c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:49:15</sys_updated_on>
+            <value>Subgroup5</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>product_subgroup</element>
+            <name>x_180060_amp_company_products</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:48:21</sys_created_on>
+            <sys_id>7c25157bdb211300477beb41ca9619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>product_subgroup</sys_name>
+            <sys_package display_value="AMP" source="x_180060_amp">00aa142fdb215300477beb41ca9619e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AMP">00aa142fdb215300477beb41ca9619e1</sys_scope>
+            <sys_update_name>sys_choice_x_180060_amp_company_products_product_subgroup</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:48:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

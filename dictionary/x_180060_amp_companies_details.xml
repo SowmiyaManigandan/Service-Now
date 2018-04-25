@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Company Details" max_length="40" name="x_180060_amp_companies_details" type="collection">
+        <element choice="3" label="Address" max_length="40" name="address" type="choice">
+            <choice>
+                <element label="Chennai" sequence="1" value="Chennai"/>
+                <element label="Bangalore" sequence="2" value="Bangalore"/>
+                <element label="Hyderabad" sequence="3" value="Hyderabad"/>
+                <element label="Pune" sequence="4" value="Pune"/>
+            </choice>
+        </element>
+        <element label="Company Id" max_length="40" name="company_id" type="string"/>
+        <element choice="1" display="true" label="Company Name" max_length="40" name="company_name" type="choice">
+            <choice>
+                <element label="HCL" sequence="1" value="HCL"/>
+                <element label="CTS" sequence="2" value="CTS"/>
+                <element label="TCS" sequence="3" value="TCS"/>
+                <element label="DELL" sequence="4" value="DELL"/>
+                <element label="HP" sequence="5" value="HP"/>
+                <element label="IBM" sequence="6" value="IBM"/>
+                <element label="CSE" sequence="7" value="CSE"/>
+                <element label="WIPRO" sequence="8" value="WIPRO"/>
+                <element label="TECH MAHINDRA" sequence="9" value="TECH MAHINDRA"/>
+                <element label="CISCO" sequence="10" value="CISCO"/>
+            </choice>
+        </element>
+        <element label="Manager" max_length="40" name="manager" type="string"/>
+    </element>
+</database>

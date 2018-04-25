@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list>company_name,company_id,manager,address</field_list>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>7</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">8faa4db3db211300477beb41ca9619f9</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Companies List">4f1b3603db2d1300477beb41ca961936</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-25 09:03:11</sys_created_on>
+        <sys_id>cfca0db3db211300477beb41ca96197e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Companies Details</sys_name>
+        <sys_package display_value="AMP" source="x_180060_amp">00aa142fdb215300477beb41ca9619e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMP">00aa142fdb215300477beb41ca9619e1</sys_scope>
+        <sys_update_name>sp_instance_table_cfca0db3db211300477beb41ca96197e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-25 09:32:56</sys_updated_on>
+        <table>x_180060_amp_companies_details</table>
+        <title>Companies Details</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=cfca0db3db211300477beb41ca96197e"/>
+</record_update>

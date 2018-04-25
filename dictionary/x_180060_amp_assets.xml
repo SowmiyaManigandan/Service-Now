@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Assets" max_length="40" name="x_180060_amp_assets" type="collection">
+        <element label="Asset ID" max_length="40" name="asset_id" type="string"/>
+        <element label="Asset Name" max_length="40" name="asset_name" type="string"/>
+        <element label="Company Name" max_length="32" name="company_name" reference="x_180060_amp_companies_details" type="reference"/>
+        <index name="index">
+            <element name="company_name"/>
+        </index>
+    </element>
+</database>

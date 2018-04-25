@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="asset_name" label="Asset Name" language="en" table="x_180060_amp_assets">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>asset_name</element>
+            <help/>
+            <hint/>
+            <label>Asset Name</label>
+            <language>en</language>
+            <name>x_180060_amp_assets</name>
+            <plural>Asset Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 10:01:06</sys_created_on>
+            <sys_id>9f081dfbdb211300477beb41ca961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Asset Name</sys_name>
+            <sys_package display_value="AMP" source="x_180060_amp">00aa142fdb215300477beb41ca9619e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AMP">00aa142fdb215300477beb41ca9619e1</sys_scope>
+            <sys_update_name>sys_documentation_x_180060_amp_assets_asset_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 10:01:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

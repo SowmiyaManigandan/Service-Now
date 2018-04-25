@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Company Products" max_length="40" name="x_180060_amp_company_products" type="collection">
+        <element label="Company Name" max_length="40" name="company_name" reference="x_180060_amp_companies_details" type="reference"/>
+        <element choice="1" label="Product Group" max_length="40" name="product_group" type="choice">
+            <choice>
+                <element label="Group1" sequence="1" value="Group1"/>
+                <element label="Group2" sequence="2" value="Group2"/>
+                <element label="Group3" sequence="3" value="Group3"/>
+                <element label="Group4" sequence="4" value="Group4"/>
+                <element label="Group5" sequence="5" value="Group5"/>
+            </choice>
+        </element>
+        <element label="Product Name" max_length="40" name="product_name" type="string"/>
+        <element choice="1" label="Product Subgroup" max_length="40" name="product_subgroup" type="choice">
+            <choice>
+                <element label="Subgroup1" sequence="1" value="Subgroup1"/>
+                <element label="Subgroup2" sequence="2" value="Subgroup2"/>
+                <element label="Subgroup3" sequence="3" value="Subgroup3"/>
+                <element label="Subgroup4" sequence="4" value="Subgroup4"/>
+                <element label="Subgroup5" sequence="5" value="Subgroup5"/>
+            </choice>
+        </element>
+        <element label="Serial Number" max_length="40" name="serial_number" type="string"/>
+    </element>
+</database>

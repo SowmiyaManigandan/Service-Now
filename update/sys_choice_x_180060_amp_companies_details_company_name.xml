@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="company_name" table="x_180060_amp_companies_details" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>company_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HCL</label>
+            <language>en</language>
+            <name>x_180060_amp_companies_details</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:25:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5bf8d77db211300477beb41ca961908</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:25:18</sys_updated_on>
+            <value>HCL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>company_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CTS</label>
+            <language>en</language>
+            <name>x_180060_amp_companies_details</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:25:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84dfcd77db211300477beb41ca961976</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:25:28</sys_updated_on>
+            <value>CTS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>company_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TCS</label>
+            <language>en</language>
+            <name>x_180060_amp_companies_details</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:25:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00ef01b7db211300477beb41ca9619eb</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:25:44</sys_updated_on>
+            <value>TCS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>company_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DELL</label>
+            <language>en</language>
+            <name>x_180060_amp_companies_details</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:25:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40ff4d77db211300477beb41ca96193a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:25:53</sys_updated_on>
+            <value>DELL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>company_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HP</label>
+            <language>en</language>
+            <name>x_180060_amp_companies_details</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:25:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2ffc977db211300477beb41ca961992</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:26:06</sys_updated_on>
+            <value>HP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>company_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IBM</label>
+            <language>en</language>
+            <name>x_180060_amp_companies_details</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:26:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3800dd77db211300477beb41ca961906</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:26:39</sys_updated_on>
+            <value>IBM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>company_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CSE</label>
+            <language>en</language>
+            <name>x_180060_amp_companies_details</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:27:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3820d977db211300477beb41ca961993</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:27:24</sys_updated_on>
+            <value>CSE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>company_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WIPRO</label>
+            <language>en</language>
+            <name>x_180060_amp_companies_details</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:27:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c05011b7db211300477beb41ca9619ec</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:27:44</sys_updated_on>
+            <value>WIPRO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>company_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TECH MAHINDRA</label>
+            <language>en</language>
+            <name>x_180060_amp_companies_details</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:27:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>386051b7db211300477beb41ca961910</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:28:00</sys_updated_on>
+            <value>TECH MAHINDRA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>company_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CISCO</label>
+            <language>en</language>
+            <name>x_180060_amp_companies_details</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:28:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d7011b7db211300477beb41ca9619ec</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:28:15</sys_updated_on>
+            <value>CISCO</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>company_name</element>
+            <name>x_180060_amp_companies_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 09:25:06</sys_created_on>
+            <sys_id>44df8d77db211300477beb41ca961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>company_name</sys_name>
+            <sys_package display_value="AMP" source="x_180060_amp">00aa142fdb215300477beb41ca9619e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AMP">00aa142fdb215300477beb41ca9619e1</sys_scope>
+            <sys_update_name>sys_choice_x_180060_amp_companies_details_company_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 09:25:06</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
